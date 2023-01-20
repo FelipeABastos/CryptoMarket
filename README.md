@@ -31,7 +31,7 @@ This app consists in a list of exchanges, containing some informations inside a 
 ```
 ## Coverage 93.7% 
 
-![Captura de Tela 2023-01-20 às 13 21 52](https://user-images.githubusercontent.com/56007862/213750364-859e8914-57c4-4c95-8375-543c036d3a2f.png)
+![Captura de Tela 2023-01-20 às 13 45 13](https://user-images.githubusercontent.com/56007862/213755164-024800ea-7b72-44ff-aa03-de19583a225d.png)
 
 ## Authors
 
