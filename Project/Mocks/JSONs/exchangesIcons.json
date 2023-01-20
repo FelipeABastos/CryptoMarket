@@ -1,0 +1,1158 @@
+[
+    {
+        "exchange_id": "CRYPTONBTC",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/dfc599212c694a368199f001fdf592b6.png"
+    },
+    {
+        "exchange_id": "DEXTOP",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/854b6ddffca74206a161e5bd8cc5261c.png"
+    },
+    {
+        "exchange_id": "KUCOIN",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/f2e2cab124634c0986723d8df5aec962.png"
+    },
+    {
+        "exchange_id": "BITMART",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/5a749bc3490d44f587810ec2d71877d5.png"
+    },
+    {
+        "exchange_id": "STEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/6d52a233f55840fabd238ad9b6bc59a3.png"
+    },
+    {
+        "exchange_id": "FOXBIT",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/af14412292f9448ebd82344d84c2f6e2.png"
+    },
+    {
+        "exchange_id": "ISX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/b7395ecf6ad04ebba1baac41516eedc5.png"
+    },
+    {
+        "exchange_id": "DDEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/59445fe4441e4a058a84a2c72f728e38.png"
+    },
+    {
+        "exchange_id": "B2BX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/62650e3e57f24a24a124b2fd39f20505.png"
+    },
+    {
+        "exchange_id": "CHILEBIT",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/83bed1e2839346b88a7f454b88ba1c17.png"
+    },
+    {
+        "exchange_id": "CHAOEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/c0e860073d65464ca363feb6fed9e2d7.png"
+    },
+    {
+        "exchange_id": "COINFALCON",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/b36288e5dedb444aa65019793102911c.png"
+    },
+    {
+        "exchange_id": "BITFOREX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/32a3ccb439ba4d20b995fd61194c5e18.png"
+    },
+    {
+        "exchange_id": "TOKENSTORE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/8fa741f6eb33464f9a6632302e42df3a.png"
+    },
+    {
+        "exchange_id": "WEXNZ",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/f27cd12d9de448449acad8b4b42f40af.png"
+    },
+    {
+        "exchange_id": "BL3P",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/a0fc38b64bc94cf38aee9838650ed637.png"
+    },
+    {
+        "exchange_id": "BRAZILIEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/9b24066a0d8d42d9a8b0c31be4307e3a.png"
+    },
+    {
+        "exchange_id": "BITHUMB",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/b813dd662ecb4f53b9c599677bb73b02.png"
+    },
+    {
+        "exchange_id": "AIRSWAP",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/20ddad0b4e4d4ea4ac92237292aa849b.png"
+    },
+    {
+        "exchange_id": "BTC38",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/dbee5911f5cd4564a8625647fa59d205.png"
+    },
+    {
+        "exchange_id": "TRADEIO",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/2c3b9a2894ed4c0b870a404fef1f9cfe.png"
+    },
+    {
+        "exchange_id": "XBTCE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/a07bd7fb5842438d93138ee4ffabdd93.png"
+    },
+    {
+        "exchange_id": "FORKDELTA",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/0165257794684a7ab6507f9a650b29bf.png"
+    },
+    {
+        "exchange_id": "FISCO",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/88e6c1c1ec0a43458a32e484375a3243.png"
+    },
+    {
+        "exchange_id": "OKEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/0bbd861eabef4ec48ccead67c8c4a383.png"
+    },
+    {
+        "exchange_id": "ABCC",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/3e5c75f0d55141b699cf09a17486baee.png"
+    },
+    {
+        "exchange_id": "TIDEBIT",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/e4000143c82a49dbb2567055bf8ec8bf.png"
+    },
+    {
+        "exchange_id": "BITSHARES",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/4871361a3f9d4d8abd8e685db7a448ff.png"
+    },
+    {
+        "exchange_id": "INSTANTBITEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/2ea95ba47bcb44bdab9f844a33d93c55.png"
+    },
+    {
+        "exchange_id": "RUDEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/c108b42c0d48495aacd37c09e8796c79.png"
+    },
+    {
+        "exchange_id": "COINPLACE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/386c7ea8c7364c3898d038e307ec8f34.png"
+    },
+    {
+        "exchange_id": "MERCADOBITCOIN",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/5fbfbd742fb64c67a3963ebd7265f9f3.png"
+    },
+    {
+        "exchange_id": "BANCORNET",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/f865b7d99b2c4d959cd51cb16f6d601d.png"
+    },
+    {
+        "exchange_id": "UPBITID",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/3eea2e57bd7845f19a6b329bba56e5dc.png"
+    },
+    {
+        "exchange_id": "CRYPTONEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/ba28d2b256f54e889b1b83c08eef00e5.png"
+    },
+    {
+        "exchange_id": "JUBI",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/15c8b63e41834d53aa558a14c2ba2963.png"
+    },
+    {
+        "exchange_id": "C2CX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/b937ed31d7954455ae72cbef25ad3237.png"
+    },
+    {
+        "exchange_id": "COINSUPER",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/78c82e9060bd4be5b4411828eb35979e.png"
+    },
+    {
+        "exchange_id": "ALLCOIN",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/670d8b962eae40abb44084d47e4098e0.png"
+    },
+    {
+        "exchange_id": "CCEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/cd8c4f7c40e54b4d876b17791c384544.png"
+    },
+    {
+        "exchange_id": "HBDM",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/9204ca863f464a5b844eaaf333eba2be.png"
+    },
+    {
+        "exchange_id": "XS2",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/1324cfc797794a65b042836527c1d7f5.png"
+    },
+    {
+        "exchange_id": "FCOIN",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/fe4fe2bbde5c48b19dbe83fe3e7696a5.png"
+    },
+    {
+        "exchange_id": "AIDOSMARKET",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/791e0f404e904c65a5ce3a03b9a4bff6.png"
+    },
+    {
+        "exchange_id": "THEOCEAN",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/7bb245d8ed5c470595e940f61e2e8e99.png"
+    },
+    {
+        "exchange_id": "ANXPRO",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/7992b13fc03a45fba759992211f411ee.png"
+    },
+    {
+        "exchange_id": "BTCC",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/7493a572ca23467385825351d850be46.png"
+    },
+    {
+        "exchange_id": "VBTC",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/51a4abba99a142a2901141785778f5df.png"
+    },
+    {
+        "exchange_id": "CPDAX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/3c43e27e9098469c9c5d1a335bb3c469.png"
+    },
+    {
+        "exchange_id": "BGOGO",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/fcf549a8f75c4ffcba21dc595ee6cc43.png"
+    },
+    {
+        "exchange_id": "COINDEAL",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/cfc1d982eaa244d7ab3d4447f6d49ef0.png"
+    },
+    {
+        "exchange_id": "BUDA",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/1e734ac419a64d35981dcd359d1c4449.png"
+    },
+    {
+        "exchange_id": "EXX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/1c8082f216f1469797c22364451cedea.png"
+    },
+    {
+        "exchange_id": "COINMATE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/84afa30627f44120834cc09bb0a6470e.png"
+    },
+    {
+        "exchange_id": "COINCHECK",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/d4e3bfc7abaa4b23b02f2a2a977354a3.png"
+    },
+    {
+        "exchange_id": "EZBTC",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/f5e79346c4c44c9f87b735c30ec603cd.png"
+    },
+    {
+        "exchange_id": "COINRAIL",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/ff40c74ea9ef47f7a506fe44f0d8afe0.png"
+    },
+    {
+        "exchange_id": "KRAKEN",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/0fce391a2d564c089735f4e42e0d8d79.png"
+    },
+    {
+        "exchange_id": "BITBOX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/3fbc3c25dc964a3a9e9cde7c25c97704.png"
+    },
+    {
+        "exchange_id": "YUNEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/dabeaacd29284f42b2e336a53a901ae9.png"
+    },
+    {
+        "exchange_id": "BTCE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/3b7d5375ac984846938a00894d99ce5c.png"
+    },
+    {
+        "exchange_id": "COINBENE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/0de5ba9f737048daa3ba17d21954d258.png"
+    },
+    {
+        "exchange_id": "ACX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/708435c40fb849dd8724601e631d8445.png"
+    },
+    {
+        "exchange_id": "LIQUI",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/edcb6985b2494c198c3dad3e07aea2d8.png"
+    },
+    {
+        "exchange_id": "GETBTC",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/d6e150a406814a1a875704ae7d48d58e.png"
+    },
+    {
+        "exchange_id": "EXMO",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/dbd2293b61414818826fbf5225867607.png"
+    },
+    {
+        "exchange_id": "KOINEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/4778fd3b68324e1f93bff5151e3d3b8d.png"
+    },
+    {
+        "exchange_id": "CRYPTOBRIDGE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/3aaad0d843024f3e8ed70f8875e61aaa.png"
+    },
+    {
+        "exchange_id": "BITFLYER",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/2d2ae028cf0e4812b9e533d6b11b03f7.png"
+    },
+    {
+        "exchange_id": "VEBITCOIN",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/08e91dd7d7b7450e815a2bcc62de72d9.png"
+    },
+    {
+        "exchange_id": "CRYPTOLOGY",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/d63e527169d4475c855b9e796f69cda6.png"
+    },
+    {
+        "exchange_id": "ESCODEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/6e167c0641594d67acd5a9bb32c2fe28.png"
+    },
+    {
+        "exchange_id": "MTGOX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/841e3dfe79bc443f8e289651e687adc3.png"
+    },
+    {
+        "exchange_id": "COINSPRO",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/e1bb738c98844795bd00f5b16d86b30f.png"
+    },
+    {
+        "exchange_id": "QUADRIGACX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/0c5e973696444125ae7945a6cc24f679.png"
+    },
+    {
+        "exchange_id": "BITZ",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/9ecc5f7261bd4ff0891fbea0e3085a61.png"
+    },
+    {
+        "exchange_id": "DRAGONEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/cb88f29af32b471c985d6f40fc8f9cdc.png"
+    },
+    {
+        "exchange_id": "BXINTH",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/603391d0d54049daa4679fb112549473.png"
+    },
+    {
+        "exchange_id": "HITBTC",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/b0a5f3418bb247b78fdc46155d63a414.png"
+    },
+    {
+        "exchange_id": "FYBSE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/d6489b3eeeca40f487471c3c7282018d.png"
+    },
+    {
+        "exchange_id": "CRYPTOFACILITIES",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/f744aab66ad243198b3cac74c3aef73b.png"
+    },
+    {
+        "exchange_id": "BITSANE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/2972b92a2169473da1e399f1afc9956e.png"
+    },
+    {
+        "exchange_id": "CRYPTOPIA",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/d1538bfb6f91463bbb649737518caa12.png"
+    },
+    {
+        "exchange_id": "BIT2C",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/189b2497cf3942af8eeacf74e69c87c6.png"
+    },
+    {
+        "exchange_id": "BITKONAN",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/0281174edb224caea38e19d8f1da08ac.png"
+    },
+    {
+        "exchange_id": "COINSPOT",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/0c1e5deae1094edc8f9e1d59c829ea04.png"
+    },
+    {
+        "exchange_id": "FREIEXCHANGE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/4e41724293db4bd883c2e605a0c9deba.png"
+    },
+    {
+        "exchange_id": "BITYES",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/b812bd5867d1444faa452be6653216dc.png"
+    },
+    {
+        "exchange_id": "COINSBANK",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/4495174ba6044042aeb45a95cb52ff5c.png"
+    },
+    {
+        "exchange_id": "BITIBU",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/b90fd7163b184c6fa289a295aa65c2c7.png"
+    },
+    {
+        "exchange_id": "YOBIT",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/e2124c25c93d4811ad25afd7ee13879c.png"
+    },
+    {
+        "exchange_id": "COINBASE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/54c07e9bf5c140a8ae8d866704a4e393.png"
+    },
+    {
+        "exchange_id": "BINANCEJE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/12706e78b23e41e2afd42eecc28d9bbc.png"
+    },
+    {
+        "exchange_id": "ETHERFLYER",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/3b82977b73e0434fb807aaf8f18b1027.png"
+    },
+    {
+        "exchange_id": "HUOBIPRO",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/dab28fcdd8ba4f3b9c603933be2629a5.png"
+    },
+    {
+        "exchange_id": "TOPBTC",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/d6116c0aae974aa781188362d4dd336f.png"
+    },
+    {
+        "exchange_id": "OASISDEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/66cd43907548462aa7acb1f448e33481.png"
+    },
+    {
+        "exchange_id": "ALLBIT",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/32fb73c379f040a7a66958801facf3d0.png"
+    },
+    {
+        "exchange_id": "OEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/0499b4d7a1aa444dbe2bf11d22058c16.png"
+    },
+    {
+        "exchange_id": "COINTIGER",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/679f080aeabb469ebaccfc87f68b8236.png"
+    },
+    {
+        "exchange_id": "BIGONE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/39770b58b48442298a05d9e5d66e9212.png"
+    },
+    {
+        "exchange_id": "HOTBIT",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/8efeffca53074421aeef4cbb8b312c8c.png"
+    },
+    {
+        "exchange_id": "HADAX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/aa28d6f83efc4294bca1a35bd236ea6e.png"
+    },
+    {
+        "exchange_id": "COINBE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/85cf7e70d67d47e1b9027de37002c3a1.png"
+    },
+    {
+        "exchange_id": "COINSQUARE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/234b2c2a0e4e41f3a8c4242f91250070.png"
+    },
+    {
+        "exchange_id": "ZBG",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/a67f6a81958a41f5bf5d5d62b1839b94.png"
+    },
+    {
+        "exchange_id": "BITEBTC",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/e8ed7075f123418f85fc0245f3ed5522.png"
+    },
+    {
+        "exchange_id": "DCOIN",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/a35f9c5c4c1b49c1a63bd0232608f5a9.png"
+    },
+    {
+        "exchange_id": "COINHUB",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/ffe52b40cd764c12993448eff90703f6.png"
+    },
+    {
+        "exchange_id": "COINRATE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/3623b802c8bd4f6f9b038d9b0697eaf9.png"
+    },
+    {
+        "exchange_id": "BBX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/09d375f32b4d499b87c7b228ecd7d49c.png"
+    },
+    {
+        "exchange_id": "BW",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/ad08818d681e4b32ac0f54ff92cd200b.png"
+    },
+    {
+        "exchange_id": "BITBAY",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/1c3b8c8e7d794821b128e4f4bb6cb0e2.png"
+    },
+    {
+        "exchange_id": "LIVECOIN",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/dee2fc423dbc4d4db57340839e6e9972.png"
+    },
+    {
+        "exchange_id": "GOPAX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/5737ae06f64541618c130b8c9c72fe84.png"
+    },
+    {
+        "exchange_id": "ICE3X",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/cbf83ed110c445608dfbfbbe1b7325cd.png"
+    },
+    {
+        "exchange_id": "SWITCHEO",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/bb536b213a0143b0a41ced4247798057.png"
+    },
+    {
+        "exchange_id": "ABUCOINS",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/ee91060adfa241abbef9775d67eca7a2.png"
+    },
+    {
+        "exchange_id": "BTCXIS",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/e8cbafa2a9bf44ee9dfee881038784e7.png"
+    },
+    {
+        "exchange_id": "COINUT",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/178f0922efb44bc7a3dcbb2f60cf43fa.png"
+    },
+    {
+        "exchange_id": "NANEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/71bcabeaf6a34bb6bf47aca38e2748e9.png"
+    },
+    {
+        "exchange_id": "UEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/4899eed5bf514e09ac27f0a0db853d23.png"
+    },
+    {
+        "exchange_id": "BCOINSG",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/b7c77041cdef4f359b4044b2d73c7741.png"
+    },
+    {
+        "exchange_id": "LAKEBTC",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/5503eb9673f9437988702f06cbd7072b.png"
+    },
+    {
+        "exchange_id": "INDEPENDENTRESERVE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/39b334d8203f4ed9b0419764e7521a13.png"
+    },
+    {
+        "exchange_id": "RIPPLEFOX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/a528afa8c5594cafbf65f196816dd181.png"
+    },
+    {
+        "exchange_id": "IDEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/5029c92e79b44757ae4c12e4a0e5a2d7.png"
+    },
+    {
+        "exchange_id": "ZB",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/2539b9bec7c4428493a70540d60b0feb.png"
+    },
+    {
+        "exchange_id": "YUNBI",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/836abd766993429abea6841dbf0e8a14.png"
+    },
+    {
+        "exchange_id": "SEEDCX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/761e435a93f6431b8ebc5d023d52e320.png"
+    },
+    {
+        "exchange_id": "GEMINI",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/7be1b1756d8a4f989b9a743df7365119.png"
+    },
+    {
+        "exchange_id": "FATBTC",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/55eeb3f5f1414252be0f75f6ef7b4d09.png"
+    },
+    {
+        "exchange_id": "APHELION",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/566775b2321842faac5c156dfe81705a.png"
+    },
+    {
+        "exchange_id": "CRYPTOMATE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/f73d1a5484a94694b327830be8b9a12c.png"
+    },
+    {
+        "exchange_id": "BTCTURK",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/33450cb323834088bbca73be01c6d99c.png"
+    },
+    {
+        "exchange_id": "DOBI",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/b7133bf2551c46c09f0cad05017044b8.png"
+    },
+    {
+        "exchange_id": "COINZEST",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/9ce668ab76744dae876437bc09910f57.png"
+    },
+    {
+        "exchange_id": "KOINEKS",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/a24f128c7f6c4f5eac3fe64c6af736df.png"
+    },
+    {
+        "exchange_id": "BITMARKET",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/9077f69f0a23461d8aa1f24d40ae6120.png"
+    },
+    {
+        "exchange_id": "COINLIM",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/ef421309dd644c59a5f33507814dcd70.png"
+    },
+    {
+        "exchange_id": "COINNEST",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/36d88962628f4ae9bc9a338205496f57.png"
+    },
+    {
+        "exchange_id": "COINALL",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/0f61d0eec94648aca1dfbbde38f85361.png"
+    },
+    {
+        "exchange_id": "UPBIT",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/011989e2cde2433a8c69f79641c255fc.png"
+    },
+    {
+        "exchange_id": "COINCORNER",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/681731146882426a9a49b0c823088224.png"
+    },
+    {
+        "exchange_id": "BITRABBIT",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/f26a63eac3ec4f81836829e0f635a41c.png"
+    },
+    {
+        "exchange_id": "BITINKA",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/c8ff715192224f41b437fd71c5349311.png"
+    },
+    {
+        "exchange_id": "LUNO",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/645063e2008540069bb52cb0c1972af1.png"
+    },
+    {
+        "exchange_id": "TRADESATOSHI",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/efca6d93caba47c89aa415644c3ca071.png"
+    },
+    {
+        "exchange_id": "FLOWBTC",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/9fd42a0904cd439196c0d520289d0902.png"
+    },
+    {
+        "exchange_id": "CRXZONE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/a55c7f3f431a4701be816f348306734f.png"
+    },
+    {
+        "exchange_id": "HEATWALLET",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/c187328adfac496f805ad351898ada4f.png"
+    },
+    {
+        "exchange_id": "SATANGPRO",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/9f40ff05940740159be0265cb0f827f7.png"
+    },
+    {
+        "exchange_id": "VAULTORO",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/f440fe9f4ac54bafb285b6ee559f8d0e.png"
+    },
+    {
+        "exchange_id": "DSX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/0afb2a797d5348ff855a567cf823c133.png"
+    },
+    {
+        "exchange_id": "BTCX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/edad323fb8724cd987c81dc17bf14941.png"
+    },
+    {
+        "exchange_id": "GATEHUB",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/b442b9ee3b6c408db25420890f8de0ea.png"
+    },
+    {
+        "exchange_id": "BITEXLA",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/8827da51a2aa4401bb0d321cfa7bd3e5.png"
+    },
+    {
+        "exchange_id": "KORBIT",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/a0676fad975c430985da3c1e0dca2c3c.png"
+    },
+    {
+        "exchange_id": "COINBIT",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/c992b12837214d7bad38814f571539c5.png"
+    },
+    {
+        "exchange_id": "BTCBOX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/e4c2a61e468d4f29808280dcca526f59.png"
+    },
+    {
+        "exchange_id": "BITONIC",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/7ba049e825174051a0c61800f77a746a.png"
+    },
+    {
+        "exchange_id": "COINONE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/436c09b46e6445c2954dade808384106.png"
+    },
+    {
+        "exchange_id": "GRAVIEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/28ede9d764e64fb7a1d663ceaa6e66de.png"
+    },
+    {
+        "exchange_id": "BITCOINID",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/b7ca2b38048a482b934e1d8782369595.png"
+    },
+    {
+        "exchange_id": "DIGIFINEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/3d47bae3faa3446b879a915e9fc2d020.png"
+    },
+    {
+        "exchange_id": "BTCTRADEUA",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/2a8d376ba8b14164bd9afc8ee29e9c5d.png"
+    },
+    {
+        "exchange_id": "BITFINEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/5a55edecce1949e49aee143a075a8703.png"
+    },
+    {
+        "exchange_id": "MBAEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/bbf22b240a384736b352575f563b7694.png"
+    },
+    {
+        "exchange_id": "BITTREX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/430d0c2db3624ce983702b770293ed3e.png"
+    },
+    {
+        "exchange_id": "BLEUTRADE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/c6a223e839914f8585a318a67e881205.png"
+    },
+    {
+        "exchange_id": "TOKENOMY",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/8030ca3babb44342994c6a57bfa0cd3e.png"
+    },
+    {
+        "exchange_id": "DERIBIT",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/e8766376f8f24d8483af5f0d021986a0.png"
+    },
+    {
+        "exchange_id": "1BROKER",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/eeb40515565c4ff7b5d8229404064b4a.png"
+    },
+    {
+        "exchange_id": "COBINHOOD",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/3d0db8b67f2c4f3488fa3f3662811500.png"
+    },
+    {
+        "exchange_id": "SIMEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/19df2853841445bc9a203bb02761665c.png"
+    },
+    {
+        "exchange_id": "BITSTAMP",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/667cd27455694a698578c0b049da749d.png"
+    },
+    {
+        "exchange_id": "KRYPTONO",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/36c8a3cac4004ba9805244f3b2ad552b.png"
+    },
+    {
+        "exchange_id": "ITBIT",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/646278f83c964642b4b219eed27e6074.png"
+    },
+    {
+        "exchange_id": "NOCKS",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/9352a7afddc8457685f331a444ff06ce.png"
+    },
+    {
+        "exchange_id": "OKCOINUSD",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/943545dff1b4446394b6c0e4e2c71ce6.png"
+    },
+    {
+        "exchange_id": "KRAKENFTS",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/0fce391a2d564c089735f4e42e0d8d79.png"
+    },
+    {
+        "exchange_id": "CREX24",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/5c0b85b39a1847b4919ad7fca760e97d.png"
+    },
+    {
+        "exchange_id": "LATOKEN",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/5d7efd7ba5e94e03a6b819e8f80beb15.png"
+    },
+    {
+        "exchange_id": "BTCCHINA",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/58662da0a7a344fd9f30a488f4ee491b.png"
+    },
+    {
+        "exchange_id": "LOCALTRADE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/cd9dbf85666440aa8f77de073ae2eae5.png"
+    },
+    {
+        "exchange_id": "MODIAX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/b8731da5ba3b46e1ade574f8d3e21a11.png"
+    },
+    {
+        "exchange_id": "LXDX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/2c219eb2a1834e6ba8443574140267fd.png"
+    },
+    {
+        "exchange_id": "BITBNS",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/5f6335c5ac1c4703a59506f952d93fb6.png"
+    },
+    {
+        "exchange_id": "BILAXY",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/4958c92dbddd4936b1f655e5063dc782.png"
+    },
+    {
+        "exchange_id": "SISTEMKOIN",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/91ae7fbfc489483facf623cd9606ec20.png"
+    },
+    {
+        "exchange_id": "EMX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/d3512e0bb1b24660b689c2731315461a.png"
+    },
+    {
+        "exchange_id": "TRADEOGRE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/8e020f491f5744e2b17b9945d963132b.png"
+    },
+    {
+        "exchange_id": "VINEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/e86d5c329e2142c7a11339b3ff71b0ff.png"
+    },
+    {
+        "exchange_id": "BITVC",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/363f01929f39435d98667cd1b55f2550.png"
+    },
+    {
+        "exchange_id": "CHBTC",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/42c817bd82a0483eb534c732c6264f53.png"
+    },
+    {
+        "exchange_id": "CRYPTALDASH",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/e400a0bfb8c44513b1a014aad3bc29ee.png"
+    },
+    {
+        "exchange_id": "COINROOM",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/aa95418b26a84657b58a89bfd55e6a4f.png"
+    },
+    {
+        "exchange_id": "CHAINCE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/204e55dd8dab4a0d823c21f04be6be4b.png"
+    },
+    {
+        "exchange_id": "KOINIM",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/e2e42c631811410c8bbb464315e9bb9c.png"
+    },
+    {
+        "exchange_id": "HUBI",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/777ae53354f1445da28e23a98cff581f.png"
+    },
+    {
+        "exchange_id": "STELLARTERM",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/0a4fc7d98bb249c79752043beb05568b.png"
+    },
+    {
+        "exchange_id": "NEGOCIECOINS",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/e52468dbfc5b4e27929336f66c3ebf5b.png"
+    },
+    {
+        "exchange_id": "TOKOK",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/e03e0967c81e4099ac06a82be926a907.png"
+    },
+    {
+        "exchange_id": "BITFLYERLTNG",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/129bd5d92bc14667bbe72a7c786f4c7e.png"
+    },
+    {
+        "exchange_id": "FYBSG",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/c9aa79fb2b5f4fc795ec9134ab1c2eb5.png"
+    },
+    {
+        "exchange_id": "KUNA",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/722546d0371d41b3a1f3373532c2c2ad.png"
+    },
+    {
+        "exchange_id": "UPBITSG",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/2b838f1b68c2437780f0c3994127a366.png"
+    },
+    {
+        "exchange_id": "VIRWOX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/9a9b7bfab56c4319b5048dc9b2f9d223.png"
+    },
+    {
+        "exchange_id": "BINANCE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/74eaad903814407ebdfc3828fe5318ba.png"
+    },
+    {
+        "exchange_id": "BITHESAP",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/5ce5e141b1e146ddab78939879282b3a.png"
+    },
+    {
+        "exchange_id": "CATEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/a4620a73b98c442893b6a1bd96159280.png"
+    },
+    {
+        "exchange_id": "MIXCOINS",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/62f291cad0044ed78bbc68d9084e354b.png"
+    },
+    {
+        "exchange_id": "OCEANEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/eb0c88fb192c4b79a5fd883b97b8fa60.png"
+    },
+    {
+        "exchange_id": "LITEBIT",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/5a991ca2abd346e489202eb141479ee6.png"
+    },
+    {
+        "exchange_id": "BITMAX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/b26491362b57458abd94e7c9476e5ba6.png"
+    },
+    {
+        "exchange_id": "BITBANK",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/7cc7e0edcd7f4fdaa48d2ddaad025e0d.png"
+    },
+    {
+        "exchange_id": "URDUBIT",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/197c4a3015bd44a68683f2347ad3f658.png"
+    },
+    {
+        "exchange_id": "INFINITYCOIN",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/fd3de7fd0060418581ddd7c7b3eb3de2.png"
+    },
+    {
+        "exchange_id": "STRONGHOLD",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/6c69404b04dc4e19801cb25fb6bd657c.png"
+    },
+    {
+        "exchange_id": "LYKKE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/4bcfd3103a0841dc920200c910874bd0.png"
+    },
+    {
+        "exchange_id": "KYBER",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/026b532bfd67428d89eb37de97b36853.png"
+    },
+    {
+        "exchange_id": "CPATEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/290ac426185240539890470971c1aa21.png"
+    },
+    {
+        "exchange_id": "1BTCXE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/19b7b3d18acf4bfdb89280c7d5b890f8.png"
+    },
+    {
+        "exchange_id": "SOUTHXCHANGE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/6b30927b59cf4ef783eb7facf6341932.png"
+    },
+    {
+        "exchange_id": "IRIPPLECHINA",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/473debb88f2f40b897b146464469b6ac.png"
+    },
+    {
+        "exchange_id": "RFINEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/03b6104b73d5428aa236d378e815fe84.png"
+    },
+    {
+        "exchange_id": "BITRUE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/1e81f9eb427b42cebdbbec21f7ded25b.png"
+    },
+    {
+        "exchange_id": "POLONIEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/ece226bee0924deb88452b0222007767.png"
+    },
+    {
+        "exchange_id": "CASHIEREST",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/10d1667be4fb44a4b561eff8755a6bee.png"
+    },
+    {
+        "exchange_id": "BYTEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/f896a8e7dff54e7cbf82ee8a4ace1342.png"
+    },
+    {
+        "exchange_id": "BITLISH",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/40cbe8f456dc4670b89e6480383f75cc.png"
+    },
+    {
+        "exchange_id": "GBX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/070e990e26114fd1ad605c7a2fea3963.png"
+    },
+    {
+        "exchange_id": "BTER",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/f47d1c8fbc7c4ed7a11589145c9b39bb.png"
+    },
+    {
+        "exchange_id": "BISQ",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/57fe804e9c604d17982b659f7283b4eb.png"
+    },
+    {
+        "exchange_id": "ZEBPAY",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/7e89e0300d554863a7e577b4e755785d.png"
+    },
+    {
+        "exchange_id": "BITTYLICIOUS",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/435213ad93794d1f87fdf3154e4aa280.png"
+    },
+    {
+        "exchange_id": "NERAEXPRO",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/365b6872106e4c0dae5ed8da7b5686cb.png"
+    },
+    {
+        "exchange_id": "COINSBIT",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/5e14f8668a1e47fe882aa886cc008c12.png"
+    },
+    {
+        "exchange_id": "TIDEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/a22e9ad92a0b457a96327f475a365305.png"
+    },
+    {
+        "exchange_id": "COINMEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/7e2adb9f81934ea1a4a45b4dc98cec22.png"
+    },
+    {
+        "exchange_id": "CEXIO",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/4b6885cbcf90499dadc2bb78221a5c86.png"
+    },
+    {
+        "exchange_id": "COINGI",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/6ee46e5e6f8b42b890cd999070033517.png"
+    },
+    {
+        "exchange_id": "BTCTRADEIM",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/beb89947a3a14d03a6756ec213d0114f.png"
+    },
+    {
+        "exchange_id": "BCEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/d00a306dbbb24c5494847d031b0e345b.png"
+    },
+    {
+        "exchange_id": "TRXMARKET",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/4d2da05056484484abfa79a468fd2d48.png"
+    },
+    {
+        "exchange_id": "WAZIRX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/4873707f25fe4de3b4bca6fa5c631011.png"
+    },
+    {
+        "exchange_id": "HUOBI",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/7f9fc543dbf8485689842a47dce439e0.png"
+    },
+    {
+        "exchange_id": "GDAC",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/26a237cf028345d69ab888f9c9f53819.png"
+    },
+    {
+        "exchange_id": "BTCMARKETS",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/b6a557cc0e884e49b76c052838aae832.png"
+    },
+    {
+        "exchange_id": "TUX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/2550c6f3524c467fa58c4827393ae020.png"
+    },
+    {
+        "exchange_id": "GATEIO",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/acc2e3a26fbe4c2db511319f9f99ba5a.png"
+    },
+    {
+        "exchange_id": "BITSO",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/13c7a54b67d04d78b5e5d40f3ede0a46.png"
+    },
+    {
+        "exchange_id": "CREDOEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/9f732cb0b7fa40fdb4023ecdb5362c0b.png"
+    },
+    {
+        "exchange_id": "GM55",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/469bce7a5ada43c58bbcb9d188eca77f.png"
+    },
+    {
+        "exchange_id": "COINSECURE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/bfdb827f82564903b2b6434d18121682.png"
+    },
+    {
+        "exchange_id": "BITSBLOCKCHAIN",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/6b1578bba4ed4fe79fde4718420ce62f.png"
+    },
+    {
+        "exchange_id": "NOVA",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/0e3a9f0b00414a7bace29aa8acce14b6.png"
+    },
+    {
+        "exchange_id": "ETHFINEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/0684e1244308478e8d174d60682ba4e8.png"
+    },
+    {
+        "exchange_id": "BIBOX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/04836ff3bc4d4d95820e0155594dca86.png"
+    },
+    {
+        "exchange_id": "BTCALPHA",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/d83dd9e9173a440da55cf9d7959b029c.png"
+    },
+    {
+        "exchange_id": "CRYPTOMKT",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/0134cfdca5bf46699e83425fc7a615e9.png"
+    },
+    {
+        "exchange_id": "IDCM",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/1e699cf505284aa691179a75e4e61809.png"
+    },
+    {
+        "exchange_id": "TRIPLEDICE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/f4fa53c0842444eda29203574851a28e.png"
+    },
+    {
+        "exchange_id": "INDODAX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/a23f3b901efe4604bd1373e6e7b22d31.png"
+    },
+    {
+        "exchange_id": "EXTSTOCK",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/422f8fda0ab94a7a857c1d85e7d1b631.png"
+    },
+    {
+        "exchange_id": "RIGHTBTC",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/f2fe67e2d5d84f59a6672950f0ca542b.png"
+    },
+    {
+        "exchange_id": "COINJAR",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/28d1b06a7df04dfcbfb7969006ee0728.png"
+    },
+    {
+        "exchange_id": "IDAX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/c1cbdb78e407476eafefd59324df62dc.png"
+    },
+    {
+        "exchange_id": "BHEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/10b5f423d84c4aa39a42e3867a5e2984.png"
+    },
+    {
+        "exchange_id": "BITMEX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/e36f2079c2f340399b58cec837879b74.png"
+    },
+    {
+        "exchange_id": "STELLARPORT",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/8d2e5786214144cdba25ee925b0e6898.png"
+    },
+    {
+        "exchange_id": "GATECOIN",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/8c05799ea06d4aabbb79fb660bcc3148.png"
+    },
+    {
+        "exchange_id": "MERCATOX",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/99904c6527544c469a015b58e8167a1e.png"
+    },
+    {
+        "exchange_id": "WAVESPLATFORM",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/a6e122c8e92845e89e44852d6c279e9c.png"
+    },
+    {
+        "exchange_id": "OKCOINCNY",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/32e3f2bd9de742ad8d9241c7f9f43780.png"
+    },
+    {
+        "exchange_id": "THEROCKTRADING",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/b6f0b99b06d2414ab80d965bee0870f5.png"
+    },
+    {
+        "exchange_id": "ZAIF",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/8f524f9837f0403a9351bc94e7df996f.png"
+    },
+    {
+        "exchange_id": "EXRATES",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/06d87da2466746cd957b2426acdf6fa5.png"
+    },
+    {
+        "exchange_id": "XENA",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/153f64e780ad4e7f998aa6a98a55b430.png"
+    },
+    {
+        "exchange_id": "COINFLOOR",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/0794a36a64124132983050644c2ac697.png"
+    },
+    {
+        "exchange_id": "COSS",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/f231d7382689406f9a50dde841418c64.png"
+    },
+    {
+        "exchange_id": "BTCTRADE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/340416c826d7425891ea8e62b99f6651.png"
+    },
+    {
+        "exchange_id": "BITCOINTRADE",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/2e3e0133336e486fa2fd6f57754e73e8.png"
+    },
+    {
+        "exchange_id": "BITKER",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/161fea65308f4e77a41a9d0cc8f08267.png"
+    },
+    {
+        "exchange_id": "BITKUB",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/abf51276eb5844bba2d3744135873753.png"
+    },
+    {
+        "exchange_id": "LBANK",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/96491e5a72634f838b6199249ffd0dac.png"
+    },
+    {
+        "exchange_id": "GULDENTRADER",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/0df0ca1b96554286a5c9d5fd4f3ca600.png"
+    },
+    {
+        "exchange_id": "RADARRELAY",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/195a39a140bf4c9f99f6a4258d8e5597.png"
+    },
+    {
+        "exchange_id": "IQUANT",
+        "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_512/cc91e555aacc47f791e1cda6cbd5774d.png"
+    }
+]
